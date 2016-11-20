@@ -3671,7 +3671,7 @@ var commands = {
         }
     },
     // List ranks with users
-    "ranks": {
+    "ranks121321312": {
         usage: "[<username or rank>]",
         process: function(bot, msg, suffix) {
             var usr;
